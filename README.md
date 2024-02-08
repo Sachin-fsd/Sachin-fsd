@@ -45,16 +45,16 @@
 <h1> 🕐 My Github Stats</h1>
 
 <p align = "center">
- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shrvn12?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
+ <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sachin-fsd?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
  </p>
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrvn12&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" width=60%/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachin-fsd&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" width=60%/>
  </p>
  <p align = "center">
- <img src="https://streak-stats.demolab.com/?user=shrvn12&theme=dark" width=60%/>
+ <img src="https://streak-stats.demolab.com/?user=Sachin-fsd&theme=dark" width=60%/>
 </p>
  <p align = "center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrvn12&theme=github_dark" width=60%/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-fsd&theme=github_dark" width=60%/>
 </p>
 
 <h1 align="center"> ✉️ Let's Connect</h1>
@@ -63,13 +63,13 @@
   <a href="mailto:sachineducational555@gmail.com">
     <img align="center" alt="email badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/shravan-singh-489409246/">
+  <a href="https://www.linkedin.com/in/sachin-singh-97849a208/">
     <img align="center" alt="LinkedIN badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/shrvn_12">
+  <a href="https://twitter.com/Schn_05">
     <img align="center" alt="Twitter badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/twitter.svg" />
   </a>
-   <a href="https://in.pinterest.com/shrvn12/">
+   <a href="https://in.pinterest.com/sachineducational555/">
     <img align="center" alt="pinterest badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/pinterest.svg" />
   </a>
 </p>
