@@ -1,79 +1,127 @@
+<div align="center">
 
-<h1 align="center">Hello <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611dd5cf525e479f1e2718147ca413b9892dd2c717e&rid=giphy.gif&ct=s" width="30px"/> I am Sachin</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a623&height=200&section=header&text=Sachin%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20New%20Delhi%2C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+</div>
 
-<h1 align="center">Full Stack Web Developer</h1>
-<p align="center">
-<img src ="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="60%" />
- </p>
- 
- <h1> 💡 About me </h1>
- 
- - 🔭 A creative and Enthusiastic Full stack web developer
- - 💻 Intrested in backend, server side programming and management
- - ✌🏻 Currently Learning Node Backend
- - 🌱 Open for contribution in frontend as well as backend for building web projects
- - 📃 Have a look at my <a href='https://shrvn12.github.io/'>Portfolio</a>
+---
 
- <h1> #️⃣ My Skillset + Toolset </h1>
- 
- <h3 align="center"> 🌿 Skills</h3>
- <p align="center">
- 
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/html5-original.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/css3-plain-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/javascript-original.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/bootstrap-original-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/nodejs-original-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/express-original-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/mongodb-original-wordmark.svg"  width="70px"/>
- 
- </p>
- <hr/>
- <h3 align="center"> ⚒️ Tools</h3>
- 
- <p align="center">
+<div align="center">
 
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/vscode-original-wordmark.svg"  width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/github-original-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/git-original-wordmark.svg" width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/google-original-wordmark.svg"  width="70px"/>
- <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/npm-original-wordmark.svg" width="70px"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+fast+%26+beautiful+web+experiences+%F0%9F%9A%80;Node.js+%7C+React+%7C+MongoDB+%7C+Socket.io;650%2B+DSA+problems+%7C+1200%2B+hrs+of+code)](https://github.com/Sachin-fsd)
 
+</div>
+
+---
+
+## 💡 About Me
+
+```javascript
+const sachin = {
+  name:       "Sachin Singh",
+  age:         20,
+  location:   "New Delhi, India 🇮🇳",
+  role:       "Full Stack Developer",
+  focus:      ["Backend", "Server-Side Architecture", "Real-Time Apps"],
+  learning:   ["DSA", "System Design", "TypeScript", "AWS"],
+  hoursCode:   1200+,
+  dsaSolved:   650+,
+  quote:      "Work until idols become rivals 🔥"
+};
+```
+
+- 🔭 Building interactive, feature-rich full-stack web applications
+- 💻 Passionate about **backend**, server-side programming & databases
+- 🌱 Currently deepening skills in **Node.js**, **Redis**, **AWS** & **DSA**
+- 🤝 Open to contributing to exciting frontend & backend web projects
+- 📬 Reach me at **sachineducational555@gmail.com**
+- 🌐 Portfolio → [sachin-fsd.github.io](https://sachin-fsd.github.io)
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 </p>
 
-<h1> 🕐 My Github Stats</h1>
+### 🟢 Backend & Databases
 
-<p align = "center">
- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Sachin-fsd?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
- </p>
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachin-fsd&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" width=60%/>
- </p>
- <p align = "center">
- <img src="https://streak-stats.demolab.com/?user=Sachin-fsd&theme=dark" width=60%/>
-</p>
- <p align = "center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-fsd&theme=github_dark" width=60%/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,socketio&theme=dark" />
 </p>
 
-<h1 align="center"> ✉️ Let's Connect</h1>
+### ☁️ Tools & Cloud
 
-<p align = "center">
-  <a href="mailto:sachineducational555@gmail.com">
-    <img align="center" alt="email badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/gmail.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/sachin-singh-97849a208/">
-    <img align="center" alt="LinkedIN badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/Schn_05">
-    <img align="center" alt="Twitter badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/twitter.svg" />
-  </a>
-   <a href="https://in.pinterest.com/sachineducational555/">
-    <img align="center" alt="pinterest badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/pinterest.svg" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,vercel,netlify,python&theme=dark" />
 </p>
 
+---
 
+## 📊 GitHub Stats
 
-<!-- I am Full Stack Solution Architect. The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, UX) & database(MongoDB). -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin-fsd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=e8eaf0&ring_color=f5a623&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-fsd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=e8eaf0&border_radius=10" width="40%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Sachin-fsd&theme=tokyonight&hide_border=true&background=0d1117&ring=f5a623&fire=ff6b35&currStreakLabel=f5a623&border_radius=10" width="60%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-fsd&theme=tokyonight" width="90%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Sachin-fsd&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-fsd&bg_color=0d1117&color=f5a623&line=f5a623&point=ff6b35&area=true&hide_border=true)](https://github.com/Sachin-fsd)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-sachineducational555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachineducational555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin--fsd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sachin-fsd/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40Schn__05-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Schn_05)
+[![Pinterest](https://img.shields.io/badge/Pinterest-sachineducational555-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/sachineducational555/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sachin--fsd.github.io-f5a623?style=for-the-badge&logo=github&logoColor=white)](https://sachin-fsd.github.io)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a623&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>⭐ <b>Star my repos if you find them useful!</b> | Made with ❤️ by <b>Sachin Singh</b></sub>
+
+</div>
