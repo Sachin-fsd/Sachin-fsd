@@ -65,30 +65,13 @@ const sachin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sachin-fsd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=e8eaf0&ring_color=f5a623&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-fsd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5a623&text_color=e8eaf0&border_radius=10" width="40%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Sachin-fsd&theme=tokyonight&hide_border=true&background=0d1117&ring=f5a623&fire=ff6b35&currStreakLabel=f5a623&border_radius=10" width="60%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-fsd&theme=tokyonight" width="90%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Sachin-fsd&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin-fsd&theme=tokyonight" width="90%" onerror="this.style.display='none'"/>
 
 </div>
 
